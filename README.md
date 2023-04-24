@@ -1,4 +1,3 @@
-
 Combining Libet's experiment and epiphenomenalism, create a mental state for ChatGPT, making it a more natural and soulful chatbot.
 
 Libet's experiment shows a link between brain activity and consciousness, suggesting our actions may be unconsciously driven. Epiphenomenalism posits mental phenomena as physical byproducts, challenging traditional causality.
